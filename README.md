@@ -1,5 +1,6 @@
 PyRace
 ======
+NEWBEE
 
 Navigate the streets, collecting pink trophies. Using Python 3.6.3 with PyGame, Written 2012.
 
